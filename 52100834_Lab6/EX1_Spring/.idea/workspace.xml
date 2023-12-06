@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a2d96c3-a665-4162-b2d5-a35b0c204f9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_Lab4/Ex1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/java/vn/edu/tdtu/javatech/Lab6_1/Application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/Ex2/src/main/java/com/example/ex2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/Ex2/src/main/java/com/example/ex2/ApplicationConguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex2/Ex2/src/main/java/com/example/ex2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab1/ex2/ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab1/ex2/out/production/ex2/ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/java/org/example/DAO/ManufacturerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/java/org/example/DAO/MobilePhoneDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/java/org/example/domain/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/java/org/example/domain/Manufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/java/org/example/domain/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../52100834_lab3/EX1/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Ex1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2XeIkQ4myEU4ZCSDeS0k4rUOMJ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/HK5/java/Practice/AllLab/52100834_Lab6/EX1_Spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2d96c3-a665-4162-b2d5-a35b0c204f9b" name="Changes" comment="" />
+      <created>1698983260703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698983260703</updated>
+      <workItem from="1698983261733" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

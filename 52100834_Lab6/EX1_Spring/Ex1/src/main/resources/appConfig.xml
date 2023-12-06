@@ -1,0 +1,32 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="product1" class="com.example.ex1.Product">
+<!--        <constructor-arg name="id" value="1"/>-->
+<!--        <constructor-arg name="name" value="Oppo"/>-->
+<!--        <constructor-arg name="price" value="100"/>-->
+<!--        <constructor-arg name="description" value="color is yellow"/>-->
+        <property name="id" value="1" />
+        <property name="name" value="Oppo" />
+        <property name="price" value="100" />
+        <property name="description" value="color is yellow" />
+
+    </bean>
+    <bean
+            id="product2"
+            class="com.example.ex1.Product">
+        <constructor-arg name="id" value="2" />
+        <constructor-arg name="name" value="Redmi" />
+        <constructor-arg name="price" value="200" />
+        <constructor-arg name="description" value=" color is black" />
+    </bean>
+    <bean
+            id="product3"
+            class="com.example.ex1.Product">
+        <property name="id" value="3" />
+        <constructor-arg name="name" value="Iphone" />
+        <property name="price" value="500" />
+        <constructor-arg name="description" value="color is white" />
+    </bean>
+</beans>

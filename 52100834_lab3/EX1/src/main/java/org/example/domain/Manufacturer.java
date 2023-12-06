@@ -1,4 +1,4 @@
-package org.example.Domain;
+package org.example.domain;
 
 import lombok.Data;
 
@@ -19,6 +19,4 @@ public class Manufacturer {
     public String location;
     @Column
     public int employee;
-
-    public List<MobilePhone> mobilePhoneList;
 }

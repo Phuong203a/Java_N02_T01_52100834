@@ -1,4 +1,4 @@
-package org.example.Domain;
+package org.example.domain;
 
 import lombok.Data;
 
@@ -22,6 +22,8 @@ public class MobilePhone {
     public String country;
     @Column
     public int quantity;
+    @Column
+    public Long manufacturerId;
 
     @Override
     public String toString() {
